@@ -29,9 +29,9 @@ Clone the repo, then run npm i to install packages, then npm run seed, then you 
 
 <h2 id='image'>Image</h2
 
-![get tags](Screenshot%202023-12-22%20160706.png)
-![delete tags](Screenshot%202023-12-22%20160738.png)
-![get products](Screenshot%202023-12-22%20160810.png)
+![get tags](./Assets/Screenshot%202023-12-22%20160706.png)
+![delete tags](./Assets/Screenshot%202023-12-22%20160738.png)
+![get products](./Assets/Screenshot%202023-12-22%20160810.png)
 
 
 <h2 id='license'>License</h2>None
