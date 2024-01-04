@@ -32,7 +32,7 @@ router.get('/:id', async (req, res) => {
 router.post('/', async (req, res) => {
   // create a new tag
   try{
-    const tagdata = await Tag.create({category_name: req.body.category_name});
+    const tagdata = await Tag.create({tag_name: req.body.tag_name});
     res.status(200).json(tagdata)
   } catch(error){
     res.status(500).json(error)
