@@ -3,6 +3,7 @@
 
 <h2>Description</h2>
 Now it is easily available for a large store to update stock, delete items, add items.
+https://drive.google.com/file/d/1qfwb2deeViauceodnLIvdpRlhNREH6dx/view?usp=share_link
 
 <h2>Table Of Contents</h2>
 
